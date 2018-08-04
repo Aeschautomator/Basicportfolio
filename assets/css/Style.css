@@ -1,6 +1,7 @@
 body {
     width: 100%;
     margin: auto;
+    text-align: center;
 
 }
 .container {
@@ -44,6 +45,7 @@ li  {
     color: white;
     justify-content: flex-start;
     z-index: 2;
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
 }
 .content {
 margin: 0 auto;
@@ -57,7 +59,7 @@ height: 642px;
 }
 h2 {
     color:#4aaaa5;
-   
+   text-align:left;
     background: white;
 
 
@@ -70,6 +72,7 @@ h2 {
 }
 Name {
     width:100%;
+    align: left;
 }
 email {
     width:100%;
@@ -77,9 +80,28 @@ email {
 .inputfield {
     width: 900px;
     height: 200px;
+   text-align: left,
 
 }
 .hr {
     width: 800px;
-    align:center
+    align:center;
+}
+lion {
+    align: center;
+
+}
+Self-portrait{
+    align: center;
+}
+form {
+    text-align: left;
+}
+.button {
+    background:#4aaaa5;
+    color: white;
+    justify-content: flex-start;
+    z-index: 2;
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+}
 }
